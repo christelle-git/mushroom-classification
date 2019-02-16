@@ -9,8 +9,6 @@ Besides, each mushroom is identified as edible or poisonous.
 The question is to model the classification of mushrooms as edigible to eat or poisonous.
 The Classification is performed by Logistic regression and others models comparison is conducted with Cross-validation.
 
-![](https://github.com/christelle-git/mushroom-classification/blob/master/mush.gif)
-
 <p align="center">
   <img src="https://github.com/christelle-git/mushroom-classification/blob/master/mush.gif">
 </p>
