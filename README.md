@@ -11,6 +11,11 @@ The Classification is performed by Logistic regression and others models compari
 
 ![](https://github.com/christelle-git/mushroom-classification/blob/master/mush.gif)
 
+<p align="center">
+  <img src="https://github.com/christelle-git/mushroom-classification/blob/master/mush.gif">
+</p>
+
+
 OUTLINE:
 
  * 1) Exploratory Data Analysis
